@@ -75,3 +75,29 @@ footer {
         transform: translateY(0);
     }
 }
+header {
+    background: url('header-bg.jpg') no-repeat center center/cover;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.name {
+    font-family: 'Pacifico', cursive;
+    font-size: 3em;
+    margin: 0;
+    animation: fadeIn 2s ease-in;
+}
+header {
+    background: url('header-bg.jpg') no-repeat center center/cover;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.name {
+    font-family: 'Pacifico', cursive;
+    font-size: 3em;
+    margin: 0;
+    animation: fadeIn 2s ease-in;
+}
